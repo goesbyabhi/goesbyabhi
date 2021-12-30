@@ -1,2 +1,2 @@
-- Learning C, C++, Java, Javascript Python
-- Python Enthusiast
+- Learning C, C++, Java, Javascript, Python
+- Python Enthusiast🐍
