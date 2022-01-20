@@ -2,4 +2,4 @@
 - Learning C, C++, Java, Javascript, Python
 - Python Enthusiast🐍
 
-![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hvn2k&show_icons=true&theme=dracula)
+![hvn's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hvn2k&show_icons=true&theme=dracula)
