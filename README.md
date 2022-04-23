@@ -4,4 +4,4 @@
 - Learning C, C++, Java, Javascript, Python
 - Interested in Open source and Ai/ML projects
 ```
-![hvn's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=goesbyabhi&show_icons=true&theme=aura)
+![hvn's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=goesbyabhi&show_icons=true&theme=dark)
